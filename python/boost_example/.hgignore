@@ -1,0 +1,6 @@
+syntax: glob
+*.txt~
+*.cpp~
+CMakeLists.txt
+
+syntax: regexp
